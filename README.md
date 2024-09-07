@@ -6,3 +6,4 @@ readme
 2. установить VSC
 3. зайти в репозиторий через [GITHUB](https://github.com/Ard3n0/Stepanov_Fedenko)
 4. сделать первый _comit_
+1
